@@ -21,6 +21,7 @@ The backend calculates positions, stores trace data and calculates collisions. T
 The node backend also sends collision data to Shiftr.IO (cloud) that functions as a MQTT broker. An Arduino in the vest controls the peltier elements and receives signals for heating and cooling via MQTT. All elements use a common local network for communication.
 
 ___Context
+
 Project developed at Zurich University of the Arts, Interaction Design Programme. Code for Arduino and tags developed by Loïc Hommel and Carina Good.
 
 ___Configuration
