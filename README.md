@@ -9,8 +9,8 @@ A thermo-active vest lets you experience the past presence of other people in a 
 ![doc1](/doc/img/doc1.jpeg)
 ![doc2](/doc/img/doc2.jpeg)
 ![doc3](/doc/img/doc3.jpeg)
-![doc4](/doc/img/doc4.jpeg)
-![doc5](/doc/img/doc5.jpeg)
+![doc4](/doc/img/doc4.jpg)
+![doc5](/doc/img/doc5.jpg)
 
 ___Setup and parts
 
