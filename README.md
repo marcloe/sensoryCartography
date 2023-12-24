@@ -10,6 +10,8 @@ A thermo-active vest lets you experience the past presence of other people in a 
 ![_DSC3713 copy](https://github.com/marcloe/sensoryCartography/assets/76460507/8e4eef30-f9a8-4ceb-944c-0189446d5eb1)
 ![_DSC3780 copy](https://github.com/marcloe/sensoryCartography/assets/76460507/4cd89edf-b1fe-484b-a9c6-57d853af67e7)
 ![UI copy](https://github.com/marcloe/sensoryCartography/assets/76460507/12eb42c6-abc4-4c2e-87c8-654160d9c36e)
+![Diagram](https://github.com/marcloe/sensoryCartography/assets/76460507/3039e912-37d8-40a6-9ccc-ee0ccbeca2de)
+
 
 ___Setup and parts
 
