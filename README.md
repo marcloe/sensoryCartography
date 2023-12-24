@@ -6,13 +6,11 @@ Sensory Cartography is an embodied interaction team project developed in the Int
 
 A thermo-active vest lets you experience the past presence of other people in a space. When the vest wearer walks at a position someone was walking at earlier, the vest heats up. Outside of these traces, it cools down. This creates an intimate experience pointing to the entanglements on our life journey as well as the search of warmth and emotion in everyday encounters.
 
-![DSC_2400 copy](https://github.com/marcloe/sensoryCartography/assets/76460507/62519cb7-c110-4b04-9ad4-18fa084081c8)
-![_DSC3713 copy](https://github.com/marcloe/sensoryCartography/assets/76460507/8e4eef30-f9a8-4ceb-944c-0189446d5eb1)
-![_DSC3780 copy](https://github.com/marcloe/sensoryCartography/assets/76460507/4cd89edf-b1fe-484b-a9c6-57d853af67e7)
-![UI copy](https://github.com/marcloe/sensoryCartography/assets/76460507/12eb42c6-abc4-4c2e-87c8-654160d9c36e)
-![Diagram](https://github.com/marcloe/sensoryCartography/assets/76460507/aa152df9-3c64-46cf-a48d-a3b6d3b4e5f3)
-
-
+![doc1](/doc/img/doc1.jpeg)
+![doc2](/doc/img/doc2.jpeg)
+![doc3](/doc/img/doc3.jpeg)
+![doc4](/doc/img/doc4.jpeg)
+![doc5](/doc/img/doc5.jpeg)
 
 ___Setup and parts
 
