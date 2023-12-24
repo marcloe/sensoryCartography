@@ -20,7 +20,7 @@ The backend calculates positions, stores trace data and calculates collisions. T
 The node backend also sends collision data to Shiftr.IO (cloud) that functions as a MQTT broker. An Arduino in the vest controls the peltier elements and receives signals for heating and cooling via MQTT. All elements use a common local network for communication.
 
 ___Context
- Project developed at Zurich University of the Arts, Interaction Design Programme. Code for Arduino and tags developed by Loïc Hommel and Carina Good.
+Project developed at Zurich University of the Arts, Interaction Design Programme. Code for Arduino and tags developed by Loïc Hommel and Carina Good.
 
 ___Configuration
 
@@ -35,7 +35,7 @@ Enter the SSID and password of the local network you want to use for communicati
 **For the Arduino**
 Enter the SSID and password of the local network you are using for communication. Do this at line 37 and 38 in the arduino_vest_peltier.ino. For the connection to the Shiftr instance, enter at line 55 the instance name in small letters and the token (do not enter the whole URL in the format mqtt://A:B@A.cloud.shiftr.io). Change the instance name in small letters in the URL-String at line 109.
 
-For the anchors there is no configuration needed.
+For the anchors there is no configuration needed. Anchor code available at https://github.com/Makerfabs/Makerfabs-ESP32-UWB-DW3000/blob/main/example/range/range_tx/range_tx.ino
 
 You have to add your own icons at /public/assets/icons and your own fonts at /public/fonts for license reasons.
 
