@@ -29,7 +29,7 @@ ___Configuration
 Use a local network for communication of ESP tags, Arduino and personal machine.
 
 **For the Node program**
-Add your Shiftr token to the config.js file, in the format mqtt://A:B@A.cloud.shiftr.io so that A = shiftr instance name  in small letters and B = secret token.
+Add your Shiftr token to **a config.js file**, in the format mqtt://A:B@A.cloud.shiftr.io so that A = shiftr instance name  in small letters and B = secret token.
 
 **For the ESP32 Tags** 
 Enter the SSID and password of the local network you want to use for communication. Do this at line 55 and 56 in the respective .ino files. Change also the server IP to the personal machine in the network that you want to run the node program on (line 57).
